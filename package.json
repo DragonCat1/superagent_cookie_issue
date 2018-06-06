@@ -1,0 +1,14 @@
+{
+  "name": "superagent_cookie_issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "梁胡刚 <ppbaozi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --experimental-modules index.mjs"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "superagent": "^3.8.3"
+  }
+}
